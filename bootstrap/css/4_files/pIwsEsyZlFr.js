@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["jtgs9"]); }
+
+__d('AudioMimeTypes',[],(function a(b,c,d,e,f,g){if(c.__markCompiled)c.__markCompiled();var h={_extToMimeType:{aac:'audio/aac',mp1:'audio/mpeg',mp2:'audio/mpeg',mp3:'audio/mpeg',mpeg:'audio/mpeg',mpg:'audio/mpeg',ogg:'audio/mp4',mp4:'audio/mp4',m4a:'audio/mp4',wav:'audio/wav'},getMimeFromExt:function j(k){return this._extToMimeType[k];},isAudio:function j(k){return i(k)[0]==='audio';}};function i(j){return j.split('/');}f.exports=h;}),null);
