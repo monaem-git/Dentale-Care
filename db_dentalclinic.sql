@@ -51,7 +51,7 @@ CREATE TABLE IF NOT EXISTS `appointments` (
 INSERT INTO `appointments` (`id`, `registration_date`, `country`, `city`, `service`, `staff`, `appointment_date`, `appointment_time`, `notes`, `firstName`, `lastName`, `gender`, `client_email`, `client_phone`) VALUES
 (1, '2016-08-31', 'Tunisia', 'medenine', 'extractionsTeeth', 'AMIR LAHWEL', '2016-09-01', '10:00:00', 'thank u doctor', 'omar', 'gzayel', 'male', 'gzayel.monaem@gmail.com', 58164898),
 (3, '2016-08-31', 'Tunisia', 'medenine', 'consultation', 'SERINE BEN AMMAR', '2016-09-01', '10:30:00', '\r\n\r\n', 'serine', 'liouene', 'female', 'serine1994@gmail.com', 22445897),
-(4, '2016-09-04', 'Afrique central ', 'flflflfl', 'rootCanal', 'MONTASSER JAMAII', '2016-09-30', '10:11:00', '', 'morsi', 'mallek', 'male', 'morsi1995@gmail.com', 21546987),
+(4, '2016-09-04', 'Afrique central ', 'chdhdh', 'rootCanal', 'MONTASSER JAMAII', '2016-09-30', '10:11:00', '', 'morsi', 'mallek', 'male', 'morsi1995@gmail.com', 21546987),
 (5, '2016-09-04', 'Tunisia', 'gassrine', 'consultation', 'RANIA SDIRI', '2016-09-15', '14:00:00', '', 'Ridha', 'Gzayel', 'male', 'ridha.1988@gmail.com', 52006207),
 (6, '2016-09-04', 'Tunisia', 'tunis', 'extractionsTeeth', 'AMIR LAHWEL', '2016-09-21', '14:00:00', 'u', 'med mansour', 'ghorbel', 'male', 'med@gmail.com', 21458746);
 
